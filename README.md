@@ -5,3 +5,14 @@ Pääset julkaistuun sovellukseen käsiksi osoitteessa -------- Linkki projektin
 # Oma arvio työstäni
 - Mielestäni onnistuin tehtävässä hyvin.
 - 
+# Tietoja sovelluksesta
+Ohjelma hakee käyttäjän hakeman artistin albumit lastFM palvelusta
+# Kuvankaappaukset
+
+# Teknologiat
+Projektissa on käytetty koodikieliä HTML, CSS ja Javascript
+# Asennus
+- Avaa nettisivu linkistä tai vaihtoehtoisesti lataa tiedostot koneellesi
+- Jos latasit tiedostot avaa sivu index.html tiedostolla
+- Seuraa nettisivun antamia ohjeita
+# Kiitokset
