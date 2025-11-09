@@ -1,4 +1,4 @@
-# Projekti-2-Javascript
+# Projekti-2-Musiikki appi
 Projektin jäsenet: Kaapo Kivimäki
 # Verkkolinkit
 Pääset julkaistuun sovellukseen käsiksi osoitteessa -------- Linkki projektin videoesittelyyn -----------
