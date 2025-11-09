@@ -1,4 +1,4 @@
-# Projekti-2-Musiikki sovellus
+# Projekti 2a: AJAX-sovellus
 Projektin jäsenet: Kaapo Kivimäki
 # Verkkolinkit
 Pääset julkaistuun sovellukseen käsiksi osoitteessa -------- Linkki projektin videoesittelyyn -----------
