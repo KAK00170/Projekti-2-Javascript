@@ -1,7 +1,7 @@
 # Projekti 2a: AJAX-sovellus
 Projektin jäsenet: Kaapo Kivimäki
 # Verkkolinkit
-Pääset julkaistuun sovellukseen käsiksi osoitteessa -------- Linkki projektin videoesittelyyn (https://youtu.be/izXcZM32prA)
+Linkki projektin videoesittelyyn (https://youtu.be/izXcZM32prA)
 # Oma arvio työstäni
 - Mielestäni onnistuin tehtävässä hyvin.
 - 
