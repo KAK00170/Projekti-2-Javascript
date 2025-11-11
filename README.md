@@ -17,3 +17,5 @@ Projektissa on käytetty koodikieliä HTML, CSS ja Javascript
 - Jos latasit tiedostot avaa sivu index.html tiedostolla
 - Seuraa nettisivun antamia ohjeita
 # Kiitokset
+- [LastFM](https://www.last.fm/api#getting-started) Nettisivulla on hyvät ohjeet
+- Troubleshoottaamisessa olen käyttänyt tekoälyä ja ystäväni apua
